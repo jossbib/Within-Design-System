@@ -17,7 +17,7 @@ The brand book in Google Slides shows what the brand looks like. These files des
 | What | Where |
 |---|---|
 | Brand book (work in progress) | [Google Slides](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit) |
-| Slides template | Google Slides (link to be added) |
+| Slides template (work in progress) | [Google Slides](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit) |
 | Written rules | This repository |
 | Logo, graphic and photo files | [assets/](assets/) |
 

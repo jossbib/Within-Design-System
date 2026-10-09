@@ -4,7 +4,7 @@ The slides available in the template, and when to use each one.
 
 > **Status: not started.** The list below is the planned starting set. It will grow as slides are added to the template.
 
-Slides template: _link to be added_
+Slides template (work in progress): [Google Slides](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit)
 
 ## Core slides
 
