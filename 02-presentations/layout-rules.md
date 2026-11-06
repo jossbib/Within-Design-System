@@ -2,11 +2,17 @@
 
 The rules that keep every slide consistent, whoever (or whatever) builds it.
 
-> **Status: not started.** These headings show what is likely to be covered. Rules will be written once the slides template is in place.
+> **Status: in progress.** Rules are being written from the signed-off slides (1–19) in the [slides template](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit). Sections still marked _To be added_ have not been written yet.
 
 ## Slide size and margins
 
-_To be added._
+**Slide size:** 16:9 widescreen, 720 × 405 pt (10 × 5.625 in). This is the Google Slides default.
+
+**Margins:** leave 30 pt clear on the left and right, so content runs from 30 pt to 690 pt across the slide. Titles, text, cards, images and the footer all line up on these two edges.
+
+**Bottom edge:** content stops at 376 pt from the top. The strip below is kept for the footer.
+
+**Exceptions:** cover photos, closing-slide photos and the magenta brush stroke can run off the edge of the slide (full bleed).
 
 ## Spacing
 
