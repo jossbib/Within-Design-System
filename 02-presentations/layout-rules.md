@@ -64,7 +64,7 @@ Every content slide has the same title area in the top-left corner, starting at 
 
 **Eyebrow (optional):** a short label above the title, such as _Case study_, _The roadmap_ or _Top-line estimates_.
 
-- Proxima Nova Bold, 12 pt, grey.
+- Proxima Nova Bold, 12 pt, Dark grey (#2D2D2C).
 - Top of the text at about 27 pt from the top of the slide.
 
 Use an eyebrow when:
@@ -98,7 +98,7 @@ The footer sits in the strip below 376 pt. It has two parts, both in Gelasio Reg
 
 **Page number:** every slide except the cover and the closing slide.
 
-- 6 pt, grey, right-aligned to the 690 pt margin, on the same line as the copyright.
+- 6 pt, Dark grey, right-aligned to the 690 pt margin, on the same line as the copyright.
 
 Nothing else goes in the footer: no logo, client name or date.
 
@@ -113,15 +113,15 @@ Proxima Nova Bold is used for headings and labels. Gelasio is used for everythin
 | Slide title | Proxima Nova Bold | 28 pt | Black | "What we heard from you" |
 | Subheading | Proxima Nova Bold | 16 pt | Black | "The challenge", "Impact" |
 | Name on a card | Proxima Nova Bold | 14 pt | Magenta | "Phil Burgess" |
-| Eyebrow | Proxima Nova Bold | 12 pt | Grey | "Case study" |
+| Eyebrow | Proxima Nova Bold | 12 pt | Dark grey | "Case study" |
 | Section heading in a column | Proxima Nova Bold | 11 pt | Black | "1. Discovery, design & co-creation" |
 | Step number | Proxima Nova Bold | 18 pt | Magenta | "1." "2." "3." |
-| Small label | Proxima Nova Bold | 8–10 pt | Black or grey | Timeline steps, month names |
-| Cover subtitle / lead paragraph | Gelasio Regular | 15 pt | Black or grey | "Creating inspiring team behaviours…" |
-| Quote | Gelasio Italic | 13 pt | Grey, key line in Magenta | Client testimonial |
+| Small label | Proxima Nova Bold | 8–10 pt | Black or Dark grey | Timeline steps, month names |
+| Cover subtitle / lead paragraph | Gelasio Regular | 15 pt | Black or Dark grey | "Creating inspiring team behaviours…" |
+| Quote | Gelasio Italic | 13 pt | Dark grey, key line in Magenta | Client testimonial |
 | Body text | Gelasio Regular | 8–14 pt (see below) | Black | Bullets, bios |
 | Chart and timeline labels | Gelasio Regular | 9 pt | Black | Roadmap row names |
-| Caption / job title | Gelasio Regular | 8 pt | Grey | "Founder & Managing Partner" |
+| Caption / job title | Gelasio Regular | 8 pt | Dark grey | "Founder & Managing Partner" |
 
 **Body size depends on how much text the slide holds:**
 
@@ -149,7 +149,22 @@ Set these in Google Slides under Format → Line & paragraph spacing → Custom 
 
 ## Using colour on slides
 
-_To be added: background colours, text colours and where the accent colours go._
+### Backgrounds
+
+- **Off white (#F0F1EC):** every content slide. Don't use plain White as a slide background; White is for cards.
+- **Magenta (#FF1493), full bleed:** cover only.
+- **Black-and-white photo, full bleed:** cover and closing slides.
+
+### Text
+
+- **Black (#1B1212):** titles, headings and body text on Off white.
+- **Dark grey (#2D2D2C):** secondary text only, such as eyebrows, captions, job titles, page numbers and chart legends, plus quotes on White cards. On slides, Dark grey on Off white is allowed for this small secondary text. That's an exception to the website rule, which removes the pairing.
+- **White:** text on photos and on Magenta.
+- **On Magenta:** use Proxima Nova Bold headings in White or Black. The one exception is cover slides, where Gelasio can be used on Magenta at 18 pt or larger.
+
+Don't use any other grey for text.
+
+_To be added: where the Magenta accent and the secondary colours go._
 
 ## Logo placement
 
