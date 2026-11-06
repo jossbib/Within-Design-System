@@ -164,7 +164,28 @@ Set these in Google Slides under Format → Line & paragraph spacing → Custom 
 
 Don't use any other grey for text.
 
-_To be added: where the Magenta accent and the secondary colours go._
+### Magenta accent
+
+Magenta draws the eye. Use it on the one or two things per area that matter most, never as decoration.
+
+- **Names** on people cards.
+- **Step numbers** and progress arrows in timelines.
+- **Key terms** in body text, and the key line of a quote (see Emphasis).
+- **Key labels** next to figures, such as "Fees".
+- **Key sessions and joint activity** in charts.
+- **Cover titles** on light photos.
+- **The brush stroke.**
+
+If more than about a fifth of the text on a slide is Magenta, it has stopped highlighting anything.
+
+**Bullets:** use Magenta bullets when nothing else on the slide is Magenta. If the slide already uses Magenta (highlighted terms, names, numbers), use Black bullets so the accent isn't diluted.
+
+### Secondary colours
+
+- **Mid grey (#DFDCD1):** thin divider lines (0.8 pt) and background bands in charts, such as holiday periods. Not for text.
+- **Blue (#61B5FF):** charts only, for activity that belongs to the client rather than WITHIN.
+- **Green (#1AEA7B):** to group items by department, for example names from a different team. Use it sparingly, about once per deck.
+- **Yellow (#FFFC5D):** not used on slides.
 
 ## Logo placement
 
