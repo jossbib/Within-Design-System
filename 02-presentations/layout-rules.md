@@ -104,7 +104,35 @@ Nothing else goes in the footer: no logo, client name or date.
 
 ## Text on slides
 
-_To be added: text sizes for each level, and limits on how much text a slide should hold._
+Proxima Nova Bold is used for headings and labels. Gelasio is used for everything you read.
+
+| Role | Font | Size | Colour | Example |
+|---|---|---|---|---|
+| Cover title | Proxima Nova Bold | 72 pt (60 pt if long) | White or Magenta | "Introducing WITHIN" |
+| Closing title | Proxima Nova Bold | 33 pt | White | "We'd love to work with you!" |
+| Slide title | Proxima Nova Bold | 28 pt | Black | "What we heard from you" |
+| Subheading | Proxima Nova Bold | 16 pt | Black | "The challenge", "Impact" |
+| Name on a card | Proxima Nova Bold | 14 pt | Magenta | "Phil Burgess" |
+| Eyebrow | Proxima Nova Bold | 12 pt | Grey | "Case study" |
+| Section heading in a column | Proxima Nova Bold | 11 pt | Black | "1. Discovery, design & co-creation" |
+| Step number | Proxima Nova Bold | 18 pt | Magenta | "1." "2." "3." |
+| Small label | Proxima Nova Bold | 8–10 pt | Black or grey | Timeline steps, month names |
+| Cover subtitle / lead paragraph | Gelasio Regular | 15 pt | Black or grey | "Creating inspiring team behaviours…" |
+| Quote | Gelasio Italic | 13 pt | Grey, key line in Magenta | Client testimonial |
+| Body text | Gelasio Regular | 8–14 pt (see below) | Black | Bullets, bios |
+| Chart and timeline labels | Gelasio Regular | 9 pt | Black | Roadmap row names |
+| Caption / job title | Gelasio Regular | 8 pt | Grey | "Founder & Managing Partner" |
+
+**Body size depends on how much text the slide holds:**
+
+- **14 pt:** up to 5 short points, one line each.
+- **12 pt:** up to 8 points, or a single full-width list.
+- **10 pt:** text split into three columns, or bios.
+- **8 pt:** dense reference detail only, such as pricing breakdowns or timeline step descriptions.
+
+**Never go below 8 pt** for anything except the footer.
+
+**Emphasis:** highlight key terms by changing them to Magenta, keeping the same font and weight. Don't use bold or italics for emphasis; italics are for quotes.
 
 ## Using colour on slides
 
