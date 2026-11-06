@@ -134,6 +134,19 @@ Proxima Nova Bold is used for headings and labels. Gelasio is used for everythin
 
 **Emphasis:** highlight key terms by changing them to Magenta, keeping the same font and weight. Don't use bold or italics for emphasis; italics are for quotes.
 
+### Line spacing
+
+Set these in Google Slides under Format → Line & paragraph spacing → Custom spacing.
+
+| Text | Line spacing | Space after each paragraph |
+|---|---|---|
+| Titles and headings (Proxima Nova Bold) | 0.8 | None |
+| Body text, lists and quotes (Gelasio) | 1.15 | 8 pt |
+
+**Cover titles inside the brush stroke** can be set tighter than 0.8 so they fit within the band.
+
+**Don't squeeze spacing to fit more in.** If the text doesn't fit, change the layout, cut words or move to a smaller body size from the table above.
+
 ## Using colour on slides
 
 _To be added: background colours, text colours and where the accent colours go._
