@@ -58,6 +58,34 @@ _To be added: the gaps between titles, text and images._
 
 The shadow should be barely noticeable. If you can see it clearly at normal viewing size, it's too strong.
 
+## Title area
+
+Every content slide has the same title area in the top-left corner, starting at the 30 pt margin.
+
+**Eyebrow (optional):** a short label above the title, such as _Case study_, _The roadmap_ or _Top-line estimates_.
+
+- Proxima Nova Bold, 12 pt, grey.
+- Top of the text at about 27 pt from the top of the slide.
+
+Use an eyebrow when:
+
+- **the title is getting too wordy.** Move the framing words into the eyebrow so the title stays short.
+- **content continues across slides.** Repeat the same eyebrow on each slide in the run, so they read as one section (for example, two slides of _Founders & Managing Partners_).
+- **the content needs more vertical space.** An eyebrow plus a one-line title takes less height than a title that wraps onto two lines.
+
+Otherwise, leave it out.
+
+**Title:**
+
+- Proxima Nova Bold, 28 pt, Black (#1B1212).
+- Top of the text at about 52 pt with an eyebrow, or about 26 pt without one (the title moves up into the eyebrow's place).
+- Sentence case, no full stop.
+- One line on standard slides. In the title-plus-picture layout it can wrap onto up to four lines in columns 1–4.
+
+**Intro line (optional):** a sentence or two that frames the slide can sit to the right of the title, starting at column 4 (199 pt). Set it in Gelasio 10 pt, lined up with the top of the title.
+
+**Main content starts at about 100 pt** from the top on every slide, whatever is underneath.
+
 ## Text on slides
 
 _To be added: text sizes for each level, and limits on how much text a slide should hold._
