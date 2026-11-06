@@ -86,6 +86,22 @@ Otherwise, leave it out.
 
 **Main content starts at about 100 pt** from the top on every slide, whatever is underneath.
 
+## Footer
+
+The footer sits in the strip below 376 pt. It has two parts, both in Gelasio Regular.
+
+**Copyright line:** on every slide.
+
+- Text: `© WITHIN LTD. 2026, All Rights Reserved.` Update the year each January.
+- 5 pt, left-aligned at the 30 pt margin, top of the text at about 387 pt.
+- Black (#1B1212) on light backgrounds; White on photos and magenta.
+
+**Page number:** every slide except the cover and the closing slide.
+
+- 6 pt, grey, right-aligned to the 690 pt margin, on the same line as the copyright.
+
+Nothing else goes in the footer: no logo, client name or date.
+
 ## Text on slides
 
 _To be added: text sizes for each level, and limits on how much text a slide should hold._
