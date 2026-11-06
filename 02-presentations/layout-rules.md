@@ -14,9 +14,49 @@ The rules that keep every slide consistent, whoever (or whatever) builds it.
 
 **Exceptions:** cover photos, closing-slide photos and the magenta brush stroke can run off the edge of the slide (full bleed).
 
+## Column grid
+
+Slides use a **12-column grid** between the 30 pt margins: 12 columns of 41.25 pt with 15 pt gutters. Each column starts 56.25 pt after the one before.
+
+| Column | 1 | 2 | 3 | 4 | 5 | 6 | 7 | 8 | 9 | 10 | 11 | 12 |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Starts at (pt) | 30 | 86 | 142.5 | 199 | 255 | 311 | 367.5 | 424 | 480 | 536 | 592.5 | 649 |
+
+The last column ends at 690 pt.
+
+**Common splits:**
+
+- **Thirds** (4 columns each): start at 30, 255 and 480 pt. Use for three-part content, three bios or three photos.
+- **Halves** (6 columns each): start at 30 and 367.5 pt. Use for side-by-side sections with more text.
+- **Sixths** (2 columns each): use for timelines, one column per week or stage.
+- **Title plus picture:** title and caption in columns 1–4, photos or logos in columns 5–12.
+- **Text beside cards:** a supporting paragraph can sit in columns 8–12 (424–690 pt).
+
+**Cards can break the grid.** Cards are meant to feel like physical objects placed on the slide, so their widths and gaps don't need to match the columns. Keep their outer edges inside the margins. See [Cards and drop shadows](#cards-and-drop-shadows).
+
 ## Spacing
 
 _To be added: the gaps between titles, text and images._
+
+## Cards and drop shadows
+
+**Cards** are white (#FFFFFF) rounded rectangles on the Off white background. Use them to hold one self-contained item: a person, a quote or a timeline icon.
+
+- **Corner radius:** 8 px on every card, whatever its size.
+- **No outline.** The card is separated from the background by its colour and shadow only.
+- **Padding:** about 9 pt between the card edge and its content.
+
+**Drop shadow:** cards only. Never add one to photos, text or logos.
+
+| Setting | Value |
+|---|---|
+| Colour | Black |
+| Opacity | 5% |
+| Angle | 90° |
+| Distance | 2 px |
+| Blur radius | 4 px |
+
+The shadow should be barely noticeable. If you can see it clearly at normal viewing size, it's too strong.
 
 ## Text on slides
 
