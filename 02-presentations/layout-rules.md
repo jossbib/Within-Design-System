@@ -189,7 +189,15 @@ If more than about a fifth of the text on a slide is Magenta, it has stopped hig
 
 ## Logo placement
 
-_To be added._
+The logo goes on the **cover and the closing slide only**. Content slides don't carry it; the copyright line does that job.
+
+- **Position:** bottom left, with its left edge on the 30 pt margin and its bottom edge at about 370 pt, just above the footer strip.
+- **Size:** 1.97 × 0.95 cm (about 56 × 27 pt). This is also the **minimum size**. Never use the logo smaller than this.
+- **Clear space:** leave at least the height of the logo (0.95 cm) empty on every side. The copyright line below it is the one exception.
+- **Version:**
+  - **White** on photos and on Magenta.
+  - **Full colour** on light photos and Off white.
+- Never stretch the logo or add a drop shadow, outline or other effect.
 
 ## Images on slides
 
