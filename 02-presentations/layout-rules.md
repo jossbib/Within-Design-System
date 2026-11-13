@@ -284,7 +284,7 @@ There are two chart patterns: the **week-by-week plan** and the **roadmap (Gantt
 - **Week label:** Proxima Nova Bold 12 pt, Black, at the top of each column.
 - **Progress arrow:** dashed Magenta, under the week labels, one arrow per stage.
 - **Stage:** number in Proxima Nova Bold 18 pt Magenta, name underneath in Proxima Nova Bold 8 pt Black.
-- **Icon card:** a White card 47 pt tall holding one line icon. Use icons on every card, not photos. A stage that runs over two weeks gets one card across both columns.
+- **Icon card:** a White card 47 pt tall holding one line icon. Use icons where you can; a photo can stand in for the key event, such as the workshop day. A stage that runs over two weeks gets one card across both columns.
 - **Description:** Gelasio 8 pt, Black, below the card.
 
 ### Roadmap (Gantt) chart
