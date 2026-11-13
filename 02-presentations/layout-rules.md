@@ -166,12 +166,18 @@ Don't use any other grey for text.
 
 ### Magenta accent
 
-Magenta draws the eye. Use it on the one or two things per area that matter most, never as decoration.
+Magenta draws the eye. Use it for two jobs only, never as decoration:
+
+- **to highlight** the one or two things per area that matter most
+- **to mark out a group** of text so it reads as one unit, such as the credit lines under a photo caption
+
+Typical uses:
 
 - **Names** on people cards.
 - **Step numbers** and progress arrows in timelines.
 - **Key terms** in body text, and the key line of a quote (see Emphasis).
 - **Key labels** next to figures, such as "Fees".
+- **Photo credits**: the "Designed and facilitated by WITHIN" line and the date (see [Images on slides](#images-on-slides)).
 - **Key sessions and joint activity** in charts.
 - **Cover titles** on light photos.
 - **The brush stroke.**
@@ -201,7 +207,38 @@ The logo goes on the **cover and the closing slide only**. Content slides don't 
 
 ## Images on slides
 
-_To be added: sizing, cropping and placement._
+**All photos:** square corners, no drop shadow, border or effect. Crop to fit the space; never stretch or squash a photo.
+
+### Cover and closing photos
+
+- Full bleed (see [Slide size and margins](#slide-size-and-margins)).
+- **Black and white** by default.
+- **Full colour** when the photo has been chosen for that client's deck, such as an image that speaks to their brief.
+
+### Workshop and event photos
+
+- **Full colour**, so the energy of the session comes through.
+- Fill **columns 5–12** (255–690 pt), from about 29 pt (level with the top of the title) down to the 376 pt bottom edge.
+- Use one large photo, or a **2 × 2 grid** with 15 pt gaps.
+- The title sits in columns 1–4, with the caption at the bottom of those columns.
+
+**Photo caption:** bottom-left in columns 1–4, with its last line level with the bottom of the photo.
+
+- **"Photos"** label in Proxima Nova Bold 9 pt, Black, followed by the event name in Gelasio Regular 9 pt, Black.
+- **"Designed and facilitated by WITHIN"** and the date below it in Gelasio Regular 8 pt, Magenta.
+
+### People photos (headshots)
+
+- **Black and white**, cropped square, head and shoulders.
+- Every headshot on a slide is the same size, and they line up along the top.
+- **In a card:** about 153 pt square, below the name and job title. Cards sit in thirds.
+- **Beside a bio:** about 96 pt square with no card, the name and job title to its right and the bio underneath. Each person takes one third.
+
+### Case study images
+
+- One image per third (columns 1–4, 5–8, 9–12), about 208 pt wide.
+- Tops line up on the main content line (about 104 pt), with a subheading and text underneath.
+- Use the client's logo in the first third, then visuals from the work, such as screenshots of outputs.
 
 ## Charts and data
 
