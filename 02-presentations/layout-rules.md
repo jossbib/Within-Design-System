@@ -295,6 +295,14 @@ There are two chart patterns: the **week-by-week plan** and the **roadmap (Gantt
 - **Legend** along the bottom, ending at the 376 pt line and starting where the time columns start: Gelasio 8 pt Dark grey, with a small swatch of each mark. Include every mark used on the chart.
 - **Caveat line** (optional), such as "Indicative · to agree together in co-design": bottom-left, in the same style as the legend.
 
+## Dividers
+
+- **Purpose:** use a divider only to set a total or conclusion apart from the detail above it, such as fees or total investment. Separate ordinary sections with space, not lines.
+- **Style:** Mid grey, 1 px, solid, horizontal.
+- **Width:** full width, margin to margin (30–690 pt), even when the content above is split into columns.
+- **Spacing:** equal space above and below, at least 15 pt (the grid gutter).
+- **One per slide.** The column lines in charts and timelines don't count (see [Charts and data](#charts-and-data)).
+
 ## Things to avoid
 
 _To be added._
