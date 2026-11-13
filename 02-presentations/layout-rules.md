@@ -190,7 +190,7 @@ If more than about a fifth of the text on a slide is Magenta, it has stopped hig
 
 ### Secondary colours
 
-- **Mid grey (#DFDCD1):** thin divider lines (0.8 pt) and background bands in charts, such as holiday periods. Not for text.
+- **Mid grey (#DFDCD1):** thin divider lines and chart gridlines (1 px, the finest weight in Google Slides) and background bands in charts, such as holiday periods. Not for text.
 - **Blue (#61B5FF):** charts only, for activity that belongs to the client rather than WITHIN.
 - **Green (#1AEA7B):** to group items by department, for example names from a different team. Use it sparingly, about once per deck.
 - **Yellow (#FFFC5D):** not used on slides.
@@ -264,7 +264,36 @@ The Magenta brush stroke is WITHIN's signature graphic. Use it where it does a j
 
 ## Charts and data
 
-_To be added._
+There are two chart patterns: the **week-by-week plan** and the **roadmap (Gantt) chart**. Both use the same marks, so a reader learns the code once.
+
+### Shared marks
+
+| Mark | Style | Means |
+|---|---|---|
+| Dashed arrow | Magenta, 1 px, dashed, with an arrowhead | Progress over time: stages moving forward, or work that carries on past the edge of the chart |
+| Bar | Magenta, 11 pt tall, rounded ends | Joint activity (WITHIN with the client) |
+| Bar | Blue, 11 pt tall, rounded ends | Activity owned by the client, such as a decision |
+| Diamond | Magenta, about 14 pt | A key session or milestone |
+| Band | Mid grey, rounded, behind the rows | A period when nothing happens, such as holidays |
+| Zone | White block, rounded, behind the rows | The period that matters most, such as the launch quarter. Label it in Proxima Nova Bold 9 pt Magenta with a dashed arrow above. Use White blocks to mark out different zones |
+| Lines | Mid grey, 1 px. Columns solid, rows dotted | Structure only |
+
+### Week-by-week plan
+
+- **Columns:** one per week, using the sixths of the grid (30, 142.5, 255, 367.5, 480, 592.5 pt), split by 1 px Mid grey lines from the content line down to the bottom edge.
+- **Week label:** Proxima Nova Bold 12 pt, Black, at the top of each column.
+- **Progress arrow:** dashed Magenta, under the week labels, one arrow per stage.
+- **Stage:** number in Proxima Nova Bold 18 pt Magenta, name underneath in Proxima Nova Bold 8 pt Black.
+- **Icon card:** a White card 47 pt tall holding one line icon. Use icons on every card, not photos. A stage that runs over two weeks gets one card across both columns.
+- **Description:** Gelasio 8 pt, Black, below the card.
+
+### Roadmap (Gantt) chart
+
+- **Row labels** in columns 1–3 (30–209 pt), Gelasio 9 pt Black. Start the key row's label with a Magenta word, such as "Launch:".
+- **Time columns** fill the rest of the width to 690 pt, all equal widths. Labels in Proxima Nova Bold 10 pt Dark grey, centred over each column.
+- **Rows** are about 21.6 pt tall, one item per row, in date order.
+- **Legend** along the bottom, ending at the 376 pt line and starting where the time columns start: Gelasio 8 pt Dark grey, with a small swatch of each mark. Include every mark used on the chart.
+- **Caveat line** (optional), such as "Indicative · to agree together in co-design": bottom-left, in the same style as the legend.
 
 ## Things to avoid
 
