@@ -2,7 +2,7 @@
 
 The rules that keep every slide consistent, whoever (or whatever) builds it.
 
-> **Status: complete (first version).** Written from the signed-off slides (1–19) in the [slides template](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit). Still to add: the brush stroke files and the chosen icon set.
+> **Status: complete (first version).** Written from the signed-off slides (1–19) in the [slides template](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit). Still to add: the brush stroke files.
 
 ## Slide size and margins
 
@@ -300,6 +300,7 @@ There are two chart patterns: the **week-by-week plan** and the **roadmap (Gantt
 - **Progress arrow:** dashed Magenta, under the week labels, one arrow per stage.
 - **Stage:** number in Proxima Nova Bold 18 pt Magenta, name underneath in Proxima Nova Bold 8 pt Black.
 - **Icon card:** a White card 47 pt tall holding one line icon. Use icons where you can; a photo can stand in for the key event, such as the workshop day. A stage that runs over two weeks gets one card across both columns.
+- **Icons:** take them from [Lucide](https://lucide.dev), the same set as the WITHIN website, so slides and web share one icon style. On lucide.dev, set the colour to Black (#1B1212) and the stroke width to 1.5, then download a PNG at 2× size or larger. Google Slides can't import SVG files. Don't mix in icons from other sets.
 - **Description:** Gelasio 8 pt, Black, below the card.
 
 ### Roadmap (Gantt) chart
