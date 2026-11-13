@@ -2,7 +2,7 @@
 
 The rules that keep every slide consistent, whoever (or whatever) builds it.
 
-> **Status: in progress.** Rules are being written from the signed-off slides (1–19) in the [slides template](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit). Sections still marked _To be added_ have not been written yet.
+> **Status: complete (first version).** Written from the signed-off slides (1–19) in the [slides template](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit). Still to add: the brush stroke files and the chosen icon set.
 
 ## Slide size and margins
 
@@ -262,10 +262,10 @@ The Magenta brush stroke is WITHIN's signature graphic. Use it where it does a j
 
 - **Colour:** always Magenta. Never recolour it.
 - **Shape:** use one of the two supplied stroke files (_files to be added to [assets/graphics/](../assets/graphics/)_). You can flip or mirror a stroke for variety, but never squash or stretch it out of proportion.
-- **Bleed:** the stroke may run off **one edge** of the slide, never two.
+- **Bleed:** the stroke may run off **one edge** of the slide, never two. The corner label (use 4) is the one exception: it crosses a corner.
 - **One per slide.** Two strokes can overlap only when they read as a single shape, as on a logo wall.
 
-**There are three uses:**
+**There are four uses:**
 
 1. **Cover title band.** Runs off the left edge and ends between about halfway and four-fifths of the way across, around the vertical middle of the slide. Everything on it starts on the 30 pt margin, in White:
    - title in Proxima Nova Bold: 60 pt, or 44 pt for a two-line title
@@ -273,6 +273,7 @@ The Magenta brush stroke is WITHIN's signature graphic. Use it where it does a j
    - optional date in Gelasio Regular 9 pt, written in full, for example "10th November 2026"
 2. **Behind a client logo** on case study slides. Sized to fill one third, top on the content line (about 104 pt), with the logo in White.
 3. **Behind a logo wall.** Turned to run vertically behind client logos in columns 7–12, with the logos in White. It bleeds off the top or the bottom, not both.
+4. **Corner label** on a cover. A short stroke set diagonally across the top-right corner, carrying a one- or two-word status such as "Adapted scope". Text in Proxima Nova Bold 12 pt, White, capitals, following the angle of the stroke.
 
 **On the stroke:** only White Proxima Nova Bold text and White logos, plus the cover date. No body text, no italics.
 
@@ -319,4 +320,31 @@ There are two chart patterns: the **week-by-week plan** and the **roadmap (Gantt
 
 ## Things to avoid
 
-_To be added._
+A quick check before a deck goes out. Most of these repeat rules above.
+
+**Text**
+
+- Any font or weight other than **Proxima Nova Bold** and **Gelasio Regular / Italic**. No Extrabold, Semibold or Light.
+- Bold or italics for emphasis. Use Magenta instead (see [Text on slides](#text-on-slides)). Italics are only for quotes.
+- Text smaller than 8 pt, other than the footer.
+- US spelling. Use UK English throughout ("behaviours", "organisation", "programme"). The exceptions are a client's own words, such as a quote or a phrase they coined, which keep their spelling.
+- Squeezing line spacing to fit more in. Change the layout or cut words instead.
+
+**Colour**
+
+- Plain White slide backgrounds. White is for cards and zones.
+- Any grey for text other than Dark grey.
+- Magenta as decoration, or on more than about a fifth of the text.
+- Yellow on slides.
+
+**Images and graphics**
+
+- Stretching or squashing photos, the logo or the brush stroke.
+- Shadows, borders or effects on photos, text or logos.
+- The logo on content slides, or smaller than 1.97 × 0.95 cm.
+- The brush stroke bleeding off more than one edge (except the corner label).
+
+**Layout**
+
+- Content outside the 30 pt margins or below 376 pt. Full-bleed photos and the brush stroke are the exceptions.
+- Leftover objects sitting off the edge of the canvas.
