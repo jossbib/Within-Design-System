@@ -108,7 +108,9 @@ Proxima Nova Bold is used for headings and labels. Gelasio is used for everythin
 
 | Role | Font | Size | Colour | Example |
 |---|---|---|---|---|
-| Cover title | Proxima Nova Bold | 72 pt (60 pt if long) | White or Magenta | "Introducing WITHIN" |
+| Cover title | Proxima Nova Bold | 72 pt (60 pt if long; 44 pt for a two-line title on the brush stroke) | White or Magenta | "Introducing WITHIN" |
+| Cover subtitle on the brush stroke | Proxima Nova Bold | 18 pt | White | "Towards a co-created solution" |
+| Cover date | Gelasio Regular | 9 pt | White | "10th November 2026" |
 | Closing title | Proxima Nova Bold | 33 pt | White | "We'd love to work with you!" |
 | Slide title | Proxima Nova Bold | 28 pt | Black | "What we heard from you" |
 | Subheading | Proxima Nova Bold | 16 pt | Black | "The challenge", "Impact" |
@@ -160,7 +162,7 @@ Set these in Google Slides under Format → Line & paragraph spacing → Custom 
 - **Black (#1B1212):** titles, headings and body text on Off white.
 - **Dark grey (#2D2D2C):** secondary text only, such as eyebrows, captions, job titles, page numbers and chart legends, plus quotes on White cards. On slides, Dark grey on Off white is allowed for this small secondary text. That's an exception to the website rule, which removes the pairing.
 - **White:** text on photos and on Magenta.
-- **On Magenta:** use Proxima Nova Bold headings in White or Black. The one exception is cover slides, where Gelasio can be used on Magenta at 18 pt or larger.
+- **On Magenta:** use Proxima Nova Bold headings in White or Black. The exceptions are cover slides, where Gelasio can be used on Magenta at 18 pt or larger, and the 9 pt cover date on the brush stroke.
 
 Don't use any other grey for text.
 
@@ -239,6 +241,26 @@ The logo goes on the **cover and the closing slide only**. Content slides don't 
 - One image per third (columns 1–4, 5–8, 9–12), about 208 pt wide.
 - Tops line up on the main content line (about 104 pt), with a subheading and text underneath.
 - Use the client's logo in the first third, then visuals from the work, such as screenshots of outputs.
+
+## Brush stroke
+
+The Magenta brush stroke is WITHIN's signature graphic. Use it where it does a job, never as decoration.
+
+- **Colour:** always Magenta. Never recolour it.
+- **Shape:** use one of the two supplied stroke files (_files to be added to [assets/graphics/](../assets/graphics/)_). You can flip or mirror a stroke for variety, but never squash or stretch it out of proportion.
+- **Bleed:** the stroke may run off **one edge** of the slide, never two.
+- **One per slide.** Two strokes can overlap only when they read as a single shape, as on a logo wall.
+
+**There are three uses:**
+
+1. **Cover title band.** Runs off the left edge and ends between about halfway and four-fifths of the way across, around the vertical middle of the slide. Everything on it starts on the 30 pt margin, in White:
+   - title in Proxima Nova Bold: 60 pt, or 44 pt for a two-line title
+   - optional subtitle in Proxima Nova Bold 18 pt
+   - optional date in Gelasio Regular 9 pt, written in full, for example "10th November 2026"
+2. **Behind a client logo** on case study slides. Sized to fill one third, top on the content line (about 104 pt), with the logo in White.
+3. **Behind a logo wall.** Turned to run vertically behind client logos in columns 7–12, with the logos in White. It bleeds off the top or the bottom, not both.
+
+**On the stroke:** only White Proxima Nova Bold text and White logos, plus the cover date. No body text, no italics.
 
 ## Charts and data
 
