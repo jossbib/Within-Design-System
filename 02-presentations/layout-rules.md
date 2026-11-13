@@ -32,11 +32,25 @@ The last column ends at 690 pt.
 - **Title plus picture:** title and caption in columns 1–4, photos or logos in columns 5–12.
 - **Text beside cards:** a supporting paragraph can sit in columns 8–12 (424–690 pt).
 
-**Cards can break the grid.** Cards are meant to feel like physical objects placed on the slide, so their widths and gaps don't need to match the columns. Keep their outer edges inside the margins. See [Cards and drop shadows](#cards-and-drop-shadows).
+**Cards can break the grid.** Cards are meant to feel like physical objects placed on the slide, so their widths don't need to match the columns. Keep their outer edges inside the margins, and leave 10 pt between cards. See [Cards and drop shadows](#cards-and-drop-shadows).
 
 ## Spacing
 
-_To be added: the gaps between titles, text and images._
+Use four steps of spacing. **The more closely two things are related, the smaller the gap between them.** Never leave a bigger gap inside a group than between groups.
+
+| Step | Size | Use for |
+|---|---|---|
+| **Touching** | 0–3 pt | Items that read as one unit: a name and job title, a step number and step name |
+| **Small** | 12 pt | A heading and its own text; the eyebrow and the title |
+| **Gutter** | 15 pt | Between columns; an image or card and the text that belongs to it; above and below a divider; a headshot and the name beside it |
+| **Section** | 30 pt | Between separate groups on the same slide |
+
+**Fixed spacing set elsewhere:**
+
+- Main content starts at about 100 pt and stops at 376 pt (see [Title area](#title-area) and [Slide size and margins](#slide-size-and-margins)).
+- **Between cards:** 10 pt, always, so each card's shadow stays clear of the next.
+- **Inside cards:** about 9 pt padding.
+- **After each paragraph:** 8 pt (see [Line spacing](#line-spacing)).
 
 ## Cards and drop shadows
 
