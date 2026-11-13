@@ -276,7 +276,7 @@ There are two chart patterns: the **week-by-week plan** and the **roadmap (Gantt
 | Diamond | Magenta, about 14 pt | A key session or milestone |
 | Band | Mid grey, rounded, behind the rows | A period when nothing happens, such as holidays |
 | Zone | White block, rounded, behind the rows | The period that matters most, such as the launch quarter. Label it in Proxima Nova Bold 9 pt Magenta with a dashed arrow above. Use White blocks to mark out different zones |
-| Lines | Mid grey, 1 px. Columns solid, rows dotted | Structure only |
+| Lines | Mid grey, 1 px. Columns solid, rows dotted. Inside a White zone, column lines switch to Off white so they stay subtle | Structure only |
 
 ### Week-by-week plan
 
