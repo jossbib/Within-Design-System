@@ -2,7 +2,7 @@
 
 The brand colours and how to use them.
 
-> **Status: complete (first version).** HEX values and the Magenta CMYK value are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). The other CMYK values are placeholders until they're checked for print, and Yellow's uses beyond slides are still to be decided.
+> **Status: complete (first version).** HEX values and the Magenta CMYK value are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). The other CMYK values are placeholders until they're checked for print.
 
 ## Primary colours
 
@@ -17,7 +17,7 @@ The brand colours and how to use them.
 
 | Name | HEX | CMYK | Used for |
 |---|---|---|---|
-| Yellow | `#FFFC5D` | C6 M1 Y58 K0 * | Not used on slides. _Other uses to be added._ |
+| Yellow | `#FFFC5D` | C6 M1 Y58 K0 * | Diagrams and illustrations, as a fill with Black text on it. Not for text or backgrounds. |
 | Green | `#1AEA7B` | C45 M0 Y48 K0 * | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. |
 | Blue | `#61B5FF` | C48 M20 Y0 K0 * | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. Also used in charts for activity that belongs to the client rather than WITHIN. |
 | White | `#FFFFFF` | C0 M0 Y0 K0 | Cards on slides, and text on Magenta and on photos. Not a slide background. |
@@ -32,7 +32,7 @@ A summary. For slides, the detailed rules are in [layout-rules.md](../02-present
 - **Backgrounds.** Off white is the default background for slides and pages. White is for cards that sit on Off white. Magenta, Dark grey and Black are for bold moments only, such as covers, the website header and dark buttons.
 - **Text.** Black is the main text colour. Dark grey is for secondary text. White goes on Magenta, photos and dark backgrounds. Always check the pairing against [Colour combinations](#colour-combinations).
 - **Highlights.** Magenta is the only accent colour. Use it to pick out the one or two things that matter most, never as decoration. Green and Blue mark out groups, about once per deck.
-- **Lines and charts.** Mid grey is for dividers, gridlines and chart bands. Blue shows client activity in charts.
+- **Lines and charts.** Mid grey is for dividers, gridlines and chart bands. Blue shows client activity in charts. Yellow is for diagrams and illustrations.
 - **Rough balance.** Most of any page or slide should be Off white and White. Black text comes next. Magenta should be a small accent, no more than about a fifth of the text on a slide. Green and Blue should be rare.
 
 ## Colour combinations
@@ -101,5 +101,5 @@ These pairings pass on contrast, but we don't use them:
 - Don't use White as a slide background. It's for cards.
 - Don't use Magenta as decoration, or for more than about a fifth of the text on a slide.
 - Don't recolour the brush stroke. It's always Magenta.
-- Don't use Yellow on slides.
+- Don't use Yellow for text or backgrounds. It's for diagrams and illustrations only.
 - Don't rely on colour alone to show meaning. A group marked in Green or Blue should also have a label or key, so it still makes sense when printed in black and white or read by someone who is colour-blind.
