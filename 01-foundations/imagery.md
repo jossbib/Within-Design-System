@@ -30,7 +30,9 @@ _To be added: a description of the style._
 
 ## Icons
 
-_To be confirmed: whether an icon set is needed._
+Use [Lucide](https://lucide.dev) icons, the same set as the WITHIN website, in Black (`#1B1212`) with a 1.5 stroke. Don't mix in icons from other sets.
+
+Files: the full set, already in the brand style, is in [assets/icons/lucide/](../assets/icons/lucide/). See the [assets README](../assets/README.md#icons) for how to find and recolour an icon.
 
 ## Things to avoid
 
