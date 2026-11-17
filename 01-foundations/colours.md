@@ -2,26 +2,28 @@
 
 The brand colours and how to use them.
 
-> **Status: started.** Colour values are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Usage rules are placeholders.
+> **Status: started.** HEX values and the Magenta CMYK value are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Colour combinations are agreed. Some usage rules are still to be added.
 
 ## Primary colours
 
 | Name | HEX | CMYK | Used for |
 |---|---|---|---|
-| Magenta | `#FF1493` | C0 M100 Y0 K3 | _To be added_ |
-| Dark grey | `#2D2D2C` | _To be added_ | _To be added_ |
-| Mid grey | `#DFDCD1` | _To be added_ | _To be added_ |
-| Off white | `#F0F1EC` | _To be added_ | _To be added_ |
+| Magenta | `#FF1493` | C0 M100 Y0 K3 | The accent colour: highlights, the brush stroke, cover backgrounds and main buttons. Use it sparingly. |
+| Dark grey | `#2D2D2C` | C80 M75 Y72 K45 * | Secondary text, dark buttons and dark backgrounds, such as the website header. |
+| Mid grey | `#DFDCD1` | C11 M8 Y12 K0 * | Thin dividers, chart gridlines and chart background bands. |
+| Off white | `#F0F1EC` | C5 M3 Y4 K0 * | The main background for slides and pages. |
 
 ## Secondary colours
 
 | Name | HEX | CMYK | Used for |
 |---|---|---|---|
-| Yellow | `#FFFC5D` | _To be added_ | _To be added_ |
-| Green | `#1AEA7B` | _To be added_ | _To be added_ |
-| Blue | `#61B5FF` | _To be added_ | _To be added_ |
-| White | `#FFFFFF` | _To be added_ | _To be added_ |
-| Black | `#1B1212` | _To be added_ | _To be added_ |
+| Yellow | `#FFFC5D` | C6 M1 Y58 K0 * | _To be added_ |
+| Green | `#1AEA7B` | C45 M0 Y48 K0 * | _To be added_ |
+| Blue | `#61B5FF` | C48 M20 Y0 K0 * | _To be added_ |
+| White | `#FFFFFF` | C0 M0 Y0 K0 | _To be added_ |
+| Black | `#1B1212` | C68 M74 Y64 K75 * | _To be added_ |
+
+\* **Placeholder CMYK values.** These were converted from HEX using the standard macOS print profile (Generic CMYK), not chosen by hand. A designer or the printer must check them before anything is printed. Yellow, Green and Blue are brighter than print ink can reproduce, so they will print duller than they look on screen.
 
 ## How to use the colours
 
