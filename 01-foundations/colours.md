@@ -29,7 +29,57 @@ _To be added: which colours are for backgrounds, text and highlights, and roughl
 
 ## Colour combinations
 
-_To be added: approved text and background pairings, checked for legibility._
+These are the only text and background pairings to use. If a pairing isn't listed here, don't use it for text. Numbers are WCAG contrast ratios.
+
+### Any text size
+
+These pairings are 4.5:1 or higher, so they work for body copy and small print as well as headings.
+
+| Background | Text colours (contrast) |
+|---|---|
+| Off white | Black 16.2 |
+| White | Dark grey 13.8 |
+| Mid grey | Black 13.4 |
+| Yellow | Black 16.9 |
+| Green | Black 11.5 |
+| Blue | Black 8.4 |
+| Dark grey | White 13.8 · Off white 12.1 · Mid grey 10.0 |
+| Black | White 18.4 · Yellow 16.9 · Off white 16.2 · Mid grey 13.4 · Green 11.5 · Blue 8.4 · Magenta 5.1 |
+
+Yellow, Green and Blue are only ever paired with Black, whichever way round.
+
+### Headings, title pages and button labels only
+
+Use these in Proxima Nova Bold at heading size, or 1.2rem for button labels. Don't use them for body copy or small print.
+
+| Background | Text colours (contrast) |
+|---|---|
+| Magenta | White 3.6 · Black 5.1 |
+
+### Slides only
+
+These exceptions apply to slides only, not to web. Magenta text fails WCAG contrast at small sizes. We accept that because it's only used for short highlights, never for running text. See [layout-rules.md](../02-presentations/layout-rules.md#using-colour-on-slides).
+
+| Background | Text | Contrast | Use it for |
+|---|---|---|---|
+| Off white | Magenta | 3.2 | Key terms, step numbers, key labels and photo credits |
+| White (cards) | Magenta | 3.6 | Names on people cards and the key line of a quote |
+| Off white | Dark grey | 12.1 | Small secondary text: eyebrows, captions, job titles, page numbers and chart legends |
+
+### Inactive text only
+
+| Background | Text | Contrast | Use it for |
+|---|---|---|---|
+| Off white | Mid grey | 1.2 | Disabled controls, which are exempt from WCAG contrast minimums |
+
+### Not used
+
+These pairings pass on contrast, but we don't use them:
+
+- Black on White
+- Dark grey on Off white (except on slides, see above)
+- Dark grey on Mid grey
+- Dark grey with Yellow, Green or Blue, either way round
 
 ## Things to avoid
 
