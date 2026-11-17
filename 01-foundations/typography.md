@@ -2,16 +2,16 @@
 
 The brand fonts and how to set text.
 
-> **Status: started.** Fonts are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Sizes and rules are placeholders.
+> **Status: started.** Fonts are taken from the font slide in the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Sizes and rules are placeholders.
 
 ## Fonts
 
 | Font | Used for |
 |---|---|
 | Proxima Nova Bold | All titles and headings |
-| Proxima Nova Regular | All paragraph text and small print |
+| Gelasio | All paragraph text and small print |
 
-All weights are available from [Adobe Fonts](https://fonts.adobe.com/fonts/proxima-nova).
+Proxima Nova is available from [Adobe Fonts](https://fonts.adobe.com/fonts/proxima-nova). Gelasio is free from [Google Fonts](https://fonts.google.com/specimen/Gelasio), in all weights.
 
 ## Fallback font
 
