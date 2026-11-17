@@ -2,28 +2,27 @@
 
 The brand colours and how to use them.
 
-> **Status: complete (first version).** HEX values and the Magenta CMYK value are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). The other CMYK values are placeholders until they're checked for print.
+> **Status: complete (first version).** HEX values are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). CMYK values for print are in [print-specs.md](../04-print/print-specs.md#colours-in-print).
 
 ## Primary colours
 
-| Name | HEX | CMYK | Used for |
-|---|---|---|---|
-| Magenta | `#FF1493` | C0 M100 Y0 K3 | The accent colour: highlights, the brush stroke, cover backgrounds and main buttons. Use it sparingly. |
-| Dark grey | `#2D2D2C` | C80 M75 Y72 K45 * | Secondary text, dark buttons and dark backgrounds, such as the website header. |
-| Mid grey | `#DFDCD1` | C11 M8 Y12 K0 * | Thin dividers, chart gridlines and chart background bands. |
-| Off white | `#F0F1EC` | C5 M3 Y4 K0 * | The main background for slides and pages. |
+| Name | HEX | Used for |
+|---|---|---|
+| Magenta | `#FF1493` | The accent colour: highlights, the brush stroke, cover backgrounds and main buttons. Use it sparingly. |
+| Dark grey | `#2D2D2C` | Secondary text, dark buttons and dark backgrounds, such as the website header. |
+| Mid grey | `#DFDCD1` | Thin dividers, chart gridlines and chart background bands. |
+| Off white | `#F0F1EC` | The main background for slides and pages. |
 
 ## Secondary colours
 
-| Name | HEX | CMYK | Used for |
-|---|---|---|---|
-| Yellow | `#FFFC5D` | C6 M1 Y58 K0 * | Diagrams and illustrations, as a fill with Black text on it. Not for text or backgrounds. |
-| Green | `#1AEA7B` | C45 M0 Y48 K0 * | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. |
-| Blue | `#61B5FF` | C48 M20 Y0 K0 * | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. Also used in charts for activity that belongs to the client rather than WITHIN. |
-| White | `#FFFFFF` | C0 M0 Y0 K0 | Cards on slides, and text on Magenta and on photos. Not a slide background. |
-| Black | `#1B1212` | C68 M74 Y64 K75 * | The main text colour: titles, headings and body copy. |
+| Name | HEX | Used for |
+|---|---|---|
+| Yellow | `#FFFC5D` | Diagrams and illustrations, as a fill with Black text on it. Not for text or backgrounds. |
+| Green | `#1AEA7B` | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. |
+| Blue | `#61B5FF` | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. Also used in charts for activity that belongs to the client rather than WITHIN. |
+| White | `#FFFFFF` | Cards on slides, and text on Magenta and on photos. Not a slide background. |
+| Black | `#1B1212` | The main text colour: titles, headings and body copy. |
 
-\* **Placeholder CMYK values.** These were converted from HEX using the standard macOS print profile (Generic CMYK), not chosen by hand. A designer or the printer must check them before anything is printed. Yellow, Green and Blue are brighter than print ink can reproduce, so they will print duller than they look on screen.
 
 ## How to use the colours
 
