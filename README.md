@@ -2,7 +2,7 @@
 
 WITHIN's design decisions, written down as plain text files that both people and AI tools can read.
 
-> **Status: early outline.** This is a first sketch of the structure. Most sections are placeholders showing what is likely to go where. The folders, files and headings may change as the project develops.
+> **Status: in progress.** The slide layout rules and the asset files are complete (first version). The foundation files are started, and the other presentation files are still to come. Sections marked “To be added” are placeholders.
 
 ## What this is
 
@@ -52,12 +52,13 @@ The brand book in Google Slides shows what the brand looks like. These files des
 | [logos.md](01-foundations/logos.md) | Logo versions and how to use them | Started |
 | [colours.md](01-foundations/colours.md) | Primary and secondary colours | Started |
 | [typography.md](01-foundations/typography.md) | Fonts and text styles | Started |
-| [imagery.md](01-foundations/imagery.md) | Brand graphics and photography | Started |
-| [layout-rules.md](02-presentations/layout-rules.md) | Spacing, text limits and layout rules for slides | Not started |
+| [imagery.md](01-foundations/imagery.md) | Brand graphics, photography and icons | Started |
+| [layout-rules.md](02-presentations/layout-rules.md) | Spacing, text limits and layout rules for slides | Complete (first version) |
 | [slide-types.md](02-presentations/slide-types.md) | The slides in the template and when to use each | Not started |
 | [ai-prompts.md](02-presentations/ai-prompts.md) | Ready-made prompts for building slides with AI | Not started |
 | [web-components.md](03-digital-web/web-components.md) | Website rules | Later phase |
 | [print-specs.md](04-print/print-specs.md) | Print rules | Later phase |
+| [assets/README.md](assets/README.md) | Logo, brush stroke, icon and photo files | Complete (first version) |
 
 ## How to use this with AI
 
