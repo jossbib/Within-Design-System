@@ -207,7 +207,7 @@ If more than about a fifth of the text on a slide is Magenta, it has stopped hig
 - **Mid grey (#DFDCD1):** thin divider lines and chart gridlines (1 px, the finest weight in Google Slides) and background bands in charts, such as holiday periods. Not for text.
 - **Green (#1AEA7B) and Blue (#61B5FF):** to group items by department, for example names from a different team, as text on White cards. Use them sparingly, about once per deck. Both fail contrast, so keep them to short labels such as names, never running text (see [colours.md](../01-foundations/colours.md#slides-only)).
 - **Blue (#61B5FF) in charts:** for activity that belongs to the client rather than WITHIN.
-- **Yellow (#FFFC5D):** diagrams and illustrations only, as a fill with Black text on it. Not for text or backgrounds.
+- **Yellow (#FFFC5D):** diagrams and illustrations only, as a fill with Black text on it. Not for text or backgrounds. Never use a Yellow shape on its own on Off white or White, because it almost disappears.
 
 ## Logo placement
 

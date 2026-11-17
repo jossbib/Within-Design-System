@@ -102,4 +102,5 @@ These pairings pass on contrast, but we don't use them:
 - Don't use Magenta as decoration, or for more than about a fifth of the text on a slide.
 - Don't recolour the brush stroke. It's always Magenta.
 - Don't use Yellow for text or backgrounds. It's for diagrams and illustrations only.
+- Don't put a Yellow shape on its own on Off white or White. It almost disappears (about 1:1 contrast). Put Black text on it or a Black element next to it.
 - Don't rely on colour alone to show meaning. A group marked in Green or Blue should also have a label or key, so it still makes sense when printed in black and white or read by someone who is colour-blind.
