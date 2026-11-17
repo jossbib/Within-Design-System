@@ -8,8 +8,8 @@ Which logo to use, and how to use it.
 
 | Version | When to use | File |
 |---|---|---|
-| Full colour | Primary. Use this by default. | _Link to be added_ |
-| Single colour | _To be added_ | _Link to be added_ |
+| Full colour | Primary. Use this by default. | [SVG](../assets/logos/within-logo-colour.svg) · [PNG](../assets/logos/png/within-logo-colour.png) |
+| Single colour | _To be added_ | Black: [SVG](../assets/logos/within-logo-black.svg) · [PNG](../assets/logos/png/within-logo-black.png)<br>Magenta: [SVG](../assets/logos/within-logo-magenta.svg) · [PNG](../assets/logos/png/within-logo-magenta.png)<br>White: [SVG](../assets/logos/within-logo-white.svg) · [PNG](../assets/logos/png/within-logo-white.png) |
 
 ## Clear space and minimum size
 

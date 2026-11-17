@@ -8,7 +8,7 @@ Brand graphics and photography.
 
 _To be added: what the brush graphics are, when to use them, and which colours they can appear in._
 
-Files: _link to be added_
+Files: [brush-stroke-magenta-01.png](../assets/graphics/brush-stroke-magenta-01.png), [brush-stroke-magenta-02.png](../assets/graphics/brush-stroke-magenta-02.png)
 
 ## Photography: people
 

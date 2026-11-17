@@ -2,7 +2,7 @@
 
 The rules that keep every slide consistent, whoever (or whatever) builds it.
 
-> **Status: complete (first version).** Written from the signed-off slides (1–19) in the [slides template](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit). Still to add: the brush stroke files.
+> **Status: complete (first version).** Written from the signed-off slides (1–19) in the [slides template](https://docs.google.com/presentation/d/12cLMgwcRBp7VKIyOsD7nw_SfdtX-6VomW4JtgKs-3xc/edit).
 
 ## Slide size and margins
 
@@ -261,7 +261,7 @@ The logo goes on the **cover and the closing slide only**. Content slides don't 
 The Magenta brush stroke is WITHIN's signature graphic. Use it where it does a job, never as decoration.
 
 - **Colour:** always Magenta. Never recolour it.
-- **Shape:** use one of the two supplied stroke files (_files to be added to [assets/graphics/](../assets/graphics/)_). You can flip or mirror a stroke for variety, but never squash or stretch it out of proportion.
+- **Shape:** use one of the two supplied stroke files, [brush-stroke-magenta-01.png](../assets/graphics/brush-stroke-magenta-01.png) or [brush-stroke-magenta-02.png](../assets/graphics/brush-stroke-magenta-02.png). You can flip or mirror a stroke for variety, but never squash or stretch it out of proportion.
 - **Bleed:** the stroke may run off **one edge** of the slide, never two. The corner label (use 4) is the one exception: it crosses a corner.
 - **One per slide.** Two strokes can overlap only when they read as a single shape, as on a logo wall.
 
