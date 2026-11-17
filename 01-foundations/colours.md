@@ -17,11 +17,11 @@ The brand colours and how to use them.
 
 | Name | HEX | CMYK | Used for |
 |---|---|---|---|
-| Yellow | `#FFFC5D` | C6 M1 Y58 K0 * | _To be added_ |
-| Green | `#1AEA7B` | C45 M0 Y48 K0 * | _To be added_ |
-| Blue | `#61B5FF` | C48 M20 Y0 K0 * | _To be added_ |
-| White | `#FFFFFF` | C0 M0 Y0 K0 | _To be added_ |
-| Black | `#1B1212` | C68 M74 Y64 K75 * | _To be added_ |
+| Yellow | `#FFFC5D` | C6 M1 Y58 K0 * | Not used on slides. _Other uses to be added._ |
+| Green | `#1AEA7B` | C45 M0 Y48 K0 * | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. |
+| Blue | `#61B5FF` | C48 M20 Y0 K0 * | Marking out a group of items, such as names from a different department. Use it sparingly, about once per deck. Also used in charts for activity that belongs to the client rather than WITHIN. |
+| White | `#FFFFFF` | C0 M0 Y0 K0 | Cards on slides, and text on Magenta and on photos. Not a slide background. |
+| Black | `#1B1212` | C68 M74 Y64 K75 * | The main text colour: titles, headings and body copy. |
 
 \* **Placeholder CMYK values.** These were converted from HEX using the standard macOS print profile (Generic CMYK), not chosen by hand. A designer or the printer must check them before anything is printed. Yellow, Green and Blue are brighter than print ink can reproduce, so they will print duller than they look on screen.
 
@@ -60,12 +60,14 @@ Use these in Proxima Nova Bold at heading size, or 1.2rem for button labels. Don
 
 ### Slides only
 
-These exceptions apply to slides only, not to web. Magenta text fails WCAG contrast at small sizes. We accept that because it's only used for short highlights, never for running text. See [layout-rules.md](../02-presentations/layout-rules.md#using-colour-on-slides).
+These exceptions apply to slides only, not to web. Magenta, Green and Blue text all fail WCAG contrast at small sizes, and Green and Blue fail even at heading size. We accept that because they're only used for short highlights and group labels, never for running text. See [layout-rules.md](../02-presentations/layout-rules.md#using-colour-on-slides).
 
 | Background | Text | Contrast | Use it for |
 |---|---|---|---|
 | Off white | Magenta | 3.2 | Key terms, step numbers, key labels and photo credits |
 | White (cards) | Magenta | 3.6 | Names on people cards and the key line of a quote |
+| White (cards) | Blue | 2.2 | Marking out a group of items, such as names from a different department |
+| White (cards) | Green | 1.6 | Marking out a group of items, such as names from a different department |
 | Off white | Dark grey | 12.1 | Small secondary text: eyebrows, captions, job titles, page numbers and chart legends |
 
 ### Inactive text only
