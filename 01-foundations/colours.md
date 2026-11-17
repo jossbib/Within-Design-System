@@ -2,7 +2,7 @@
 
 The brand colours and how to use them.
 
-> **Status: started.** HEX values and the Magenta CMYK value are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Colour combinations are agreed. Some usage rules are still to be added.
+> **Status: complete (first version).** HEX values and the Magenta CMYK value are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). The other CMYK values are placeholders until they're checked for print, and Yellow's uses beyond slides are still to be decided.
 
 ## Primary colours
 
@@ -93,4 +93,13 @@ These pairings pass on contrast, but we don't use them:
 
 ## Things to avoid
 
-_To be added._
+- Don't use a text and background pairing that isn't in [Colour combinations](#colour-combinations).
+- Don't use the slides-only pairings on web. That rules out small Magenta text, and Green or Blue text, on light backgrounds.
+- Don't use Magenta, Green or Blue for running text. They're for short highlights and labels only.
+- Don't pair Yellow, Green or Blue with Dark grey. Use Black.
+- Don't use tints, shades or any colour outside the palette, including other greys.
+- Don't use White as a slide background. It's for cards.
+- Don't use Magenta as decoration, or for more than about a fifth of the text on a slide.
+- Don't recolour the brush stroke. It's always Magenta.
+- Don't use Yellow on slides.
+- Don't rely on colour alone to show meaning. A group marked in Green or Blue should also have a label or key, so it still makes sense when printed in black and white or read by someone who is colour-blind.
