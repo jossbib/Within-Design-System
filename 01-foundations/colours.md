@@ -27,7 +27,13 @@ The brand colours and how to use them.
 
 ## How to use the colours
 
-_To be added: which colours are for backgrounds, text and highlights, and roughly how much of each to use._
+A summary. For slides, the detailed rules are in [layout-rules.md](../02-presentations/layout-rules.md#using-colour-on-slides).
+
+- **Backgrounds.** Off white is the default background for slides and pages. White is for cards that sit on Off white. Magenta, Dark grey and Black are for bold moments only, such as covers, the website header and dark buttons.
+- **Text.** Black is the main text colour. Dark grey is for secondary text. White goes on Magenta, photos and dark backgrounds. Always check the pairing against [Colour combinations](#colour-combinations).
+- **Highlights.** Magenta is the only accent colour. Use it to pick out the one or two things that matter most, never as decoration. Green and Blue mark out groups, about once per deck.
+- **Lines and charts.** Mid grey is for dividers, gridlines and chart bands. Blue shows client activity in charts.
+- **Rough balance.** Most of any page or slide should be Off white and White. Black text comes next. Magenta should be a small accent, no more than about a fifth of the text on a slide. Green and Blue should be rare.
 
 ## Colour combinations
 
