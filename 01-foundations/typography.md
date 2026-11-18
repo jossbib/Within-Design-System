@@ -45,6 +45,8 @@ Every piece of WITHIN text is one of these styles. For exact sizes and line spac
 
 Titles are always bigger than subheadings, and subheadings bigger than body text. Body text is never smaller than 8 pt, except the footer.
 
+Heading sizes step up by about a third (×1.33). Use the same ratio when setting sizes for new formats, such as web.
+
 ## Rules
 
 _To be added: alignment, capitalisation, use of bold and emphasis._
