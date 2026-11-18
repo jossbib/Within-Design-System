@@ -2,7 +2,7 @@
 
 WITHIN's design decisions, written down as plain text files that both people and AI tools can read.
 
-> **Status: in progress.** The slide layout rules, colours, typography and the asset files are complete (first version). The other foundation files are started, and the other presentation files are still to come. Sections marked “To be added” are placeholders.
+> **Status: in progress.** The slide layout rules, colours, typography, logos and the asset files are complete (first version). Imagery is started, and the other presentation files are still to come. Sections marked “To be added” are placeholders.
 
 ## What this is
 
@@ -49,7 +49,7 @@ The brand book in Google Slides shows what the brand looks like. These files des
 
 | File | What it covers | Status |
 |---|---|---|
-| [logos.md](01-foundations/logos.md) | Logo versions and how to use them | Started |
+| [logos.md](01-foundations/logos.md) | Logo versions and how to use them | Complete (first version) |
 | [colours.md](01-foundations/colours.md) | Colours, approved pairings and how to use them | Complete (first version) |
 | [typography.md](01-foundations/typography.md) | Fonts and text styles | Complete (first version) |
 | [imagery.md](01-foundations/imagery.md) | Brand graphics, photography and icons | Started |
