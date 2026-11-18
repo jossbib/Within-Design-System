@@ -148,7 +148,7 @@ Proxima Nova Bold is used for headings and labels. Gelasio is used for everythin
 
 **Never go below 8 pt** for anything except the footer.
 
-**Emphasis:** highlight key terms by changing them to Magenta, keeping the same font and weight. Don't use bold or italics for emphasis; italics are for quotes.
+**Emphasis:** set key terms in Gelasio Bold, in the same colour as the text around them. Bold a few words per paragraph at most, never whole sentences. Don't use Magenta or italics for emphasis in body text; italics are for quotes. See [typography.md → Rules](../01-foundations/typography.md#rules).
 
 ### Line spacing
 
@@ -191,7 +191,7 @@ Typical uses:
 
 - **Names** on people cards.
 - **Step numbers** and progress arrows in timelines.
-- **Key terms** in body text, and the key line of a quote (see Emphasis).
+- **The key line of a quote.**
 - **Key labels** next to figures, such as "Fees".
 - **Photo credits**: the "Designed and facilitated by WITHIN" line and the date (see [Images on slides](#images-on-slides)).
 - **Key sessions and joint activity** in charts.
@@ -200,7 +200,7 @@ Typical uses:
 
 If more than about a fifth of the text on a slide is Magenta, it has stopped highlighting anything.
 
-**Bullets:** use Magenta bullets when nothing else on the slide is Magenta. If the slide already uses Magenta (highlighted terms, names, numbers), use Black bullets so the accent isn't diluted.
+**Bullets:** use Magenta bullets when nothing else on the slide is Magenta. If the slide already uses Magenta (names, numbers, key labels), use Black bullets so the accent isn't diluted.
 
 ### Secondary colours
 
@@ -325,8 +325,8 @@ A quick check before a deck goes out. Most of these repeat rules above.
 
 **Text**
 
-- Any font or weight other than **Proxima Nova Bold** and **Gelasio Regular / Italic**. No Extrabold, Semibold or Light.
-- Bold or italics for emphasis. Use Magenta instead (see [Text on slides](#text-on-slides)). Italics are only for quotes.
+- Any font or weight other than **Proxima Nova Bold** and **Gelasio Regular / Italic / Bold**. Gelasio Bold is for emphasis only. No Extrabold, Semibold or Light.
+- Magenta or italics to emphasise words in body text. Use Gelasio Bold instead (see [Text on slides](#text-on-slides)). Italics are only for quotes.
 - Text smaller than 8 pt, other than the footer.
 - US spelling. Use UK English throughout ("behaviours", "organisation", "programme"). The exceptions are a client's own words, such as a quote or a phrase they coined, which keep their spelling.
 - Squeezing line spacing to fit more in. Change the layout or cut words instead.

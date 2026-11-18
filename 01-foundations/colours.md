@@ -69,7 +69,7 @@ These exceptions apply to slides only, not to web. Magenta, Green and Blue text 
 
 | Background | Text | Contrast | Use it for |
 |---|---|---|---|
-| Off white | Magenta | 3.2 | Key terms, step numbers, key labels and photo credits |
+| Off white | Magenta | 3.2 | Step numbers, key labels and photo credits |
 | White (cards) | Magenta | 3.6 | Names on people cards and the key line of a quote |
 | White (cards) | Blue | 2.2 | Marking out a group of items, such as names from a different department |
 | White (cards) | Green | 1.6 | Marking out a group of items, such as names from a different department |
