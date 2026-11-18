@@ -2,15 +2,15 @@
 
 Which logo to use, and how to use it.
 
-> **Status: started.** Logo versions are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Versions, clear space and minimum size are set. Backgrounds and placement are still to be added. Slide placement is already in [layout-rules.md](../02-presentations/layout-rules.md#logo-placement).
+> **Status: started.** Logo versions are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Versions, clear space, minimum size and backgrounds are set. Placement and things to avoid are still to be added. Slide placement is already in [layout-rules.md](../02-presentations/layout-rules.md#logo-placement).
 
 ## Logo versions
 
 | Version | When to use | File |
 |---|---|---|
 | Full colour | **Primary. Use it by default**, on Off white, White and light photos. | [SVG](../assets/logos/within-logo-colour.svg) · [PNG](../assets/logos/png/within-logo-colour.png) |
-| White | On Magenta, Dark grey, Black and dark photos. | [SVG](../assets/logos/within-logo-white.svg) · [PNG](../assets/logos/png/within-logo-white.png) |
-| Black | Where only one colour is possible on a light background, such as one-colour print or a black-and-white document. | [SVG](../assets/logos/within-logo-black.svg) · [PNG](../assets/logos/png/within-logo-black.png) |
+| White | On Magenta, Dark grey, Black, the brush stroke and dark photos. | [SVG](../assets/logos/within-logo-white.svg) · [PNG](../assets/logos/png/within-logo-white.png) |
+| Black | Where only one colour is possible on a light background, such as one-colour print or a black-and-white document. Can also go on Magenta. | [SVG](../assets/logos/within-logo-black.svg) · [PNG](../assets/logos/png/within-logo-black.png) |
 | Magenta | Rarely used. | [SVG](../assets/logos/within-logo-magenta.svg) · [PNG](../assets/logos/png/within-logo-magenta.png) |
 
 Use only these four files. Don't recolour the logo or rebuild it from type.
@@ -31,7 +31,16 @@ Measure the width from the left edge of the "w" to the right edge of the "n".
 
 ## Backgrounds
 
-_To be added: which logo version goes on which background colour._
+| Background | Logo |
+|---|---|
+| Off white, White | Full colour. Black where only one colour is possible. |
+| Magenta | White or Black |
+| Dark grey, Black | White |
+| The Magenta brush stroke | White |
+| Light photos | Full colour, on a calm, even area |
+| Dark photos | White, on a calm, even area |
+
+Never put the logo on Mid grey, Yellow, Green or Blue, or on a busy part of a photo. Never put the Full colour logo on a dark background, because its Black letters disappear.
 
 ## Placement
 
