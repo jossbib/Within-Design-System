@@ -2,7 +2,7 @@
 
 The brand fonts and how to set text.
 
-> **Status: started.** Fonts are taken from the font slide in the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Fallback fonts and text styles are set; rules are still to be added.
+> **Status: complete (first version).** Fonts are taken from the font slide in the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Exact slide sizes and line spacing are in [layout-rules.md](../02-presentations/layout-rules.md#text-on-slides).
 
 ## Fonts
 
@@ -49,8 +49,24 @@ Heading sizes step up by about a third (×1.33). Use the same ratio when setting
 
 ## Rules
 
-_To be added: alignment, capitalisation, use of bold and emphasis._
+**Emphasis.** To pick out key terms in body text, set them in Gelasio Bold, in the same colour as the text around them. Bold a few words per paragraph at most, never whole sentences. A short lead-in label at the start of a line, such as "Launch:", can also be bold.
+
+**Italics** are only for quotes.
+
+**Magenta text** is for headings and labels only: display titles, names, step numbers and key labels. The two exceptions on slides are the key line of a quote and the "Designed and facilitated by WITHIN" photo credit. Never use Magenta for emphasis in body text.
+
+**Capitals.** Use sentence case for titles, headings, eyebrows and labels. Use all capitals only for the short corner label on the brush stroke.
+
+**Punctuation.** No full stop at the end of titles, headings or labels.
+
+**Alignment.** Left-align text. Page numbers are the only right-aligned text.
 
 ## Things to avoid
 
-_To be added._
+- Any font or weight other than Proxima Nova Bold, Gelasio Regular, Gelasio Italic and Gelasio Bold (for emphasis only).
+- Proxima Nova for body text, or Gelasio for titles and headings.
+- Magenta, italics or underlining to emphasise words in body text. Use Gelasio Bold.
+- Bolding whole sentences or paragraphs.
+- All capitals, except the corner label on the brush stroke.
+- Centred or justified text.
+- Swapping to a fallback font when the brand fonts are available.
