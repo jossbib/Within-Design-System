@@ -2,18 +2,19 @@
 
 Which logo to use, and how to use it.
 
-> **Status: started.** Logo versions are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). All sections are written; one background rule is still to be confirmed. Slide placement is already in [layout-rules.md](../02-presentations/layout-rules.md#logo-placement).
+> **Status: complete (first version).** Logo versions are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). All sections are written. Slide placement is already in [layout-rules.md](../02-presentations/layout-rules.md#logo-placement).
 
 ## Logo versions
 
 | Version | When to use | File |
 |---|---|---|
 | Full colour | **Primary. Use it by default**, on Off white, White and light photos. | [SVG](../assets/logos/within-logo-colour.svg) · [PNG](../assets/logos/png/within-logo-colour.png) |
+| Full colour inverted | White letters with the Magenta bracket. On Dark grey, Black and dark photos. | [SVG](../assets/logos/within-logo-colour-inverted.svg) · [PNG](../assets/logos/png/within-logo-colour-inverted.png) |
 | White | On Magenta, Dark grey, Black, the brush stroke and dark photos. | [SVG](../assets/logos/within-logo-white.svg) · [PNG](../assets/logos/png/within-logo-white.png) |
 | Black | Where only one colour is possible on a light background, such as one-colour print or a black-and-white document. | [SVG](../assets/logos/within-logo-black.svg) · [PNG](../assets/logos/png/within-logo-black.png) |
 | Magenta | Rarely used. | [SVG](../assets/logos/within-logo-magenta.svg) · [PNG](../assets/logos/png/within-logo-magenta.png) |
 
-Use only these four files. Don't recolour the logo or rebuild it from type.
+Use only these five files. Don't recolour the logo or rebuild it from type.
 
 ## Clear space and minimum size
 
@@ -35,12 +36,12 @@ Measure the width from the left edge of the "w" to the right edge of the "n".
 |---|---|
 | Off white, White | Full colour. Black where only one colour is possible. |
 | Magenta | White |
-| Dark grey, Black | White |
+| Dark grey, Black | Full colour inverted or White |
 | The Magenta brush stroke | White |
 | Light photos | Full colour, on a calm, even area |
-| Dark photos | White, on a calm, even area |
+| Dark photos | Full colour inverted or White, on a calm, even area |
 
-Never put the logo on Mid grey, Yellow, Green or Blue, or on a busy part of a photo. Never put the Full colour logo on a dark background, because its Black letters disappear.
+Never put the logo on Mid grey, Yellow, Green or Blue, or on a busy part of a photo. Never put the Full colour logo on a dark background, because its Black letters disappear: use Full colour inverted. Never put Full colour inverted on Magenta, because the bracket disappears.
 
 ## Placement
 
@@ -53,7 +54,7 @@ Use the logo once per page or screen at most. Line its left edge up with the tex
 ## Things to avoid
 
 - Stretching, squashing or rotating the logo.
-- Changing its colours, or using any version other than the four files.
+- Changing its colours, or using any version other than the five files.
 - Adding shadows, outlines, glows or other effects.
 - Rebuilding the logo from type, or changing the gap between the letters and the bracket.
 - Using the bracket or the word on its own.

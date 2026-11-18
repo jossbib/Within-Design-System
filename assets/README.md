@@ -10,8 +10,8 @@ The files here are web-ready copies. The full-size masters are kept in the [bran
 
 | Folder | Files | Notes |
 |---|---|---|
-| [logos/](logos/) | `within-logo-colour.svg`, `-black.svg`, `-magenta.svg`, `-white.svg` | Use the SVG wherever you can. It works at any size. |
-| [logos/png/](logos/png/) | The same four logos as PNG, 2235 × 1080 px, transparent background | For tools that can't use SVG, such as Google Slides. |
+| [logos/](logos/) | `within-logo-colour.svg`, `-colour-inverted.svg`, `-black.svg`, `-magenta.svg`, `-white.svg` | Use the SVG wherever you can. It works at any size. |
+| [logos/png/](logos/png/) | The same five logos as PNG, 2235 × 1080 px, transparent background | For tools that can't use SVG, such as Google Slides. |
 | [graphics/](graphics/) | `brush-stroke-magenta-01.png`, `brush-stroke-magenta-02.png` | The two Magenta brush strokes, transparent background. See the [brush stroke rules](../02-presentations/layout-rules.md). |
 | [photography/slide-backgrounds/](photography/slide-backgrounds/) | `cover-dark.jpg`, `cover-light.jpg`, `cover-magenta.jpg`, `closing.jpg` | Full-bleed photos for cover and closing slides, 1920 × 1080 px (16:9). |
 | [photography/people/](photography/people/) | `within-founders.jpg`, `within-workshop-square.jpg`, `within-workshop-wide.jpg` | Photos of the founders and workshops, 1920 px on the long side. Also published on the WITHIN website. |
@@ -22,6 +22,7 @@ The files here are web-ready copies. The full-size masters are kept in the [bran
 | File | Colours |
 |---|---|
 | `within-logo-colour` | Black (`#1B1212`) letters, Magenta (`#FF1493`) frame |
+| `within-logo-colour-inverted` | White letters, Magenta (`#FF1493`) frame. Use on dark backgrounds. |
 | `within-logo-black` | All Black (`#1B1212`) |
 | `within-logo-magenta` | All Magenta (`#FF1493`) |
 | `within-logo-white` | All White. Use on dark or Magenta backgrounds. |
@@ -50,6 +51,9 @@ The full [Lucide](https://lucide.dev) set, version 1.74.0, the same icon set the
 
 - All lowercase, words joined with hyphens.
 - Pixel sizes are not part of the name. Folders separate sizes instead.
+- No export suffixes such as `@2x`. Bigger copies go in a separate folder (`large/` on Google Drive) under the same name.
+- **Logos** are named `within-logo-` plus the version: `colour`, `colour-inverted`, `black`, `white` or `magenta`.
+- Rename files exported from design tools before filing them. For example, "Colour Light Text.png" became `within-logo-colour-inverted.png`.
 - The same name is used in this repo and on Google Drive, so a file can be traced back to its master.
 
 ## Large files and what's kept off GitHub
