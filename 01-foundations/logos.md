@@ -2,7 +2,7 @@
 
 Which logo to use, and how to use it.
 
-> **Status: started.** Logo versions are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit) and set. Clear space, size, backgrounds and placement are still to be added. Slide placement is already in [layout-rules.md](../02-presentations/layout-rules.md#logo-placement).
+> **Status: started.** Logo versions are taken from the [brand book](https://docs.google.com/presentation/d/10adt0hE1NL03DJu31Li8YJrdnTZbtgfCTYKqPR8RuIU/edit). Versions, clear space and minimum size are set. Backgrounds and placement are still to be added. Slide placement is already in [layout-rules.md](../02-presentations/layout-rules.md#logo-placement).
 
 ## Logo versions
 
@@ -17,7 +17,17 @@ Use only these four files. Don't recolour the logo or rebuild it from type.
 
 ## Clear space and minimum size
 
-_To be added: how much empty space to leave around the logo, and the smallest size it can be used at._
+**Clear space:** leave at least **half the logo's height** empty on every side, with no text, edges or other graphics. The logo files have no padding built in, so measure from the edge of the square bracket. On slides, leave the full height of the logo (see [layout-rules.md](../02-presentations/layout-rules.md#logo-placement)).
+
+**Minimum size:**
+
+| Where | Smallest width |
+|---|---|
+| Slides | 1.97 cm (about 56 pt) |
+| Screen | 80 px |
+| Print | 20 mm |
+
+Measure the width from the left edge of the "w" to the right edge of the "n".
 
 ## Backgrounds
 
